@@ -7,6 +7,7 @@
 - We can stay connected :handshake: on [LinkedIn](https://www.linkedin.com/in/kartik-anand-1aa54020b/)
 ### Tech Stack
 ---
+# Programming Languages
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=1E90FF)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=120A8F)
 ![](https://img.shields.io/badge/C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=3299CC)
