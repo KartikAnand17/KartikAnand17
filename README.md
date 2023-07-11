@@ -1,5 +1,5 @@
 ### Hi there, I'm Kartik 👋
-- Masters in Computer Science - Data Science Track Student at University of Texas at Dallas ![https://upload.wikimedia.org/wikipedia/commons/7/7c/UT_Dallas_2_Color_Emblem_-_SVG_Brand_Identity_File.svg]
+- Masters in Computer Science - Data Science Track Student at University of Texas at Dallas (https://upload.wikimedia.org/wikipedia/commons/7/7c/UT_Dallas_2_Color_Emblem_-_SVG_Brand_Identity_File.svg)
 <!--
 **KartikAnand17/KartikAnand17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
