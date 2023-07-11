@@ -4,6 +4,7 @@
 - Interested in Big Data Engineering, Distributed Systems, Machine Learning :robot:	
 - Fun Fact: I am fitness freak :running_man:. You'll find me in the gym or out for a run in most of my free time :weight_lifting_man:
 - We can stay connected :handshake: on [LinkedIn](https://www.linkedin.com/in/kartik-anand-1aa54020b/)
+### Tech Stack
 <!--
 **KartikAnand17/KartikAnand17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
