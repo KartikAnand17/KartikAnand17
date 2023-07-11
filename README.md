@@ -1,7 +1,7 @@
 ### Hi there, I'm Kartik 👋
 - Masters in Computer Science - Data Science Track Student at University of Texas at Dallas
 - Computer Scinece and engineering graduate from Birla Institute of Technology and Science
-- Fun Fact: I am fitness freak :running_man:. If I'm not busy working on my coursework, you'll find me in the gym:weight_lifting_man:
+- Fun Fact: I am fitness freak :running_man:. If I'm not busy working on my assignment, you'll find me in the gym :weight_lifting_man:
 <!--
 **KartikAnand17/KartikAnand17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
