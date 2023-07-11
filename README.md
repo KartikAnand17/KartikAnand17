@@ -1,5 +1,7 @@
 ### Hi there, I'm Kartik 👋
-- Masters in Computer Science - Data Science Track Student at University of Texas at Dallas 
+- Masters in Computer Science - Data Science Track Student at University of Texas at Dallas
+- Computer Scinece and engineering graduate from Birla Institute of Technology and Science
+
 <!--
 **KartikAnand17/KartikAnand17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
