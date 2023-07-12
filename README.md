@@ -18,7 +18,7 @@
 #### Libraries and Frameworks
 ![](https://img.shields.io/badge/Numpy-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=008080)
 ![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=008080)
-![](https://img.shields.io/badge/Scikit-learn-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=120A8F)
+![](https://img.shields.io/badge/Scikitlearn-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=120A8F)
 ![](https://img.shields.io/badge/Hadoop-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=008080)
 ![](https://img.shields.io/badge/PySpark-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=120A8F)
 ![](https://img.shields.io/badge/Kafka-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=3299CC)
