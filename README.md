@@ -22,6 +22,7 @@
 ![](https://img.shields.io/badge/Hadoop-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=008080)
 ![](https://img.shields.io/badge/PySpark-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=120A8F)
 ![](https://img.shields.io/badge/Kafka-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=3299CC)
+![](https://img.shields.io/badge/Airflow-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=3299CC)
 
 #### Cloud and DevOps
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=008080)
