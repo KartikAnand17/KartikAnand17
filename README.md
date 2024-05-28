@@ -1,6 +1,6 @@
 ### Hi there, I'm Kartik 👋 
 ---
-- Masters in Computer Science - Data Science Track Student :technologist:	 at University of Texas at Dallas :us:
+- Masters in Computer Science - Data Science Track Student :technologist:	 at University of Texas at Dallas 
 - Computer Scinece and engineering graduate from Birla Institute of Technology and Science :india:	:united_arab_emirates:
 - Interested in Big Data Engineering, Distributed Systems, Machine Learning :robot:	
 - Fun Fact: I am fitness freak . You'll find me in the gym :weight_lifting_man: or out for a run :running_man: in most of my free time 
